@@ -10,7 +10,7 @@ To play the game, follow these steps:
 3. Ensure you have Python 3 installed on your machine.
 4. Run the following command to install the required dependencies:
 ```shell
-pip install pygame
+./install
 ```
 
 ## Usage
